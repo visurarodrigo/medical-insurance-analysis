@@ -26,12 +26,11 @@ This project was completed as part of the **IBM Data Analysis with Python** cour
 | charges         | Insurance charges in USD                             | Float      |
 
 ## Project Structure
-medical-insurance-analysis/
-│
-├── insurance_analysis.ipynb 
-├── insurance.csv 
-├── Plots
-├── README.md 
+
+- insurance_analysis.ipynb
+- insurance.csv
+- Plots
+- README.md 
 
 ## Features and Analysis
 1. **Data Cleaning:**  
