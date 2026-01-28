@@ -1,10 +1,5 @@
 # Medical Insurance Charges Analysis 💉📊
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-red.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## 📋 Project Overview
 
 This project provides a comprehensive analysis of medical insurance charges using advanced machine learning regression techniques. By analyzing demographic and health-related features of insured individuals, we develop predictive models to accurately estimate insurance costs and identify key cost-driving factors.
